@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @shoaziz17
+- 👀 I’m interested in creating something simple but interesting
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on Angular, React Native and Python
+- 📫 You can contact me:
+-   Email => shoazizrixsiboyev03@gmail.com
+-   Telegram => @just_17s
+-   Instagram => just.shoaziz
